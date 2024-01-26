@@ -8,8 +8,8 @@ namespace BaiTapGit
 {
     internal class Demo
     {
-        int x = 1;
-        int y = 2;
-        int z = 3;
+        int x = 100;
+        int y = 2220000;
+        int z = 322222222;
     }
 }
