@@ -11,5 +11,12 @@ namespace BaiTapGit
         int x = 1;
         int y = 2;
         int z = 3;
+
+        int X
+        {
+            get { return x; }
+            set { x = value; }
+        }
+
     }
 }
