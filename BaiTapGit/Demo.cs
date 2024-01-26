@@ -11,5 +11,9 @@ namespace BaiTapGit
         int x = 1;
         int y = 2;
         int z = 3;
+
+        int m = 5;
+        int n = 6;
+        int i = 7;
     }
 }
